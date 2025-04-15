@@ -1,0 +1,8 @@
+{
+  "CompilerPath": "gcc",
+  "CompilerArgs": ["-Wall", "-Wextra", "-pedantic", "-std=c99"],
+  "OutputName": "ceditor",
+  "RunAfterCompile": true,
+  "CustomRunCommand": "ceditor.c",
+  "SourceFile": "ceditor.c"
+}
